@@ -1,6 +1,8 @@
-# Sample Hardhat Project
+# Authentication Soul Bound Token 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+SBT and its registry.
+Minting SBTs requires the secret set during the initialization.
+ The minter proves it with the Commit-Reveal scheme.
 
 Try running some of the following tasks:
 
